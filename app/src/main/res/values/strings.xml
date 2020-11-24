@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CodeLock</string>
+    <string name="enter_passcode">Enter Passcode</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="android_write_text_to_a_file">Android Write Text to a File</string>
+    <string name="write_text_into_file">Write Text into File</string>
+    <string name="enter">Enter</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="show">Show</string>
+    <string name="add_password">Add Password</string>
+    <string name="add_note">Add Note</string>
+    <string name="re_enter_password">Re-enter Password</string>
+    <string name="enter_4_digit_password">Enter 4 digit Password</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="button">Button</string>
+    <string name="sms_alert">SMS Alert</string>
+</resources>
